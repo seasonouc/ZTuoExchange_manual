@@ -16,7 +16,6 @@
 5. 为方便大家交流和学习，请各位小伙伴加入QQ交流群。
 * 区块链交易所技术交流【QQ群：735446452】。
 
-![](/ZTuo/assets/erweima.png)
 
 ### 系统使用的技术
 
@@ -55,4 +54,10 @@
 9. [保证金管理](//ZTuo/bao-zheng-jin-guan-li.md)
 
 
+捐赠支持
 
+BTC：3AU5QZb591Vs63SAzdhebBZpQ6qj9GVCNm
+
+LTC：33tZdhUBqhB2s3JoUEsuBhHQ75taW12WAc
+
+ETH：0x38d7f0c2d5054941717bde236a7f0aa94e89d5af
